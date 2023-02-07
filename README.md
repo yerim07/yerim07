@@ -1,5 +1,5 @@
 ### 반갑습니다😊
-<img src="https://img.shields.io/badge/인스타그램-FFCFDA?style=flat-square&logo=인스타그램&logoColor=FF7E9D"/>
+<img src="https://img.shields.io/badge/인스타그램-FFCFDA?style=flat-square&logo=instagram&logoColor=FF7E9D"/>
 <!--
 **yerim07/yerim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

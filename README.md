@@ -1,5 +1,5 @@
 ### 꿈, 도전, 혁신, 질문, 소통이 나를 대표하는 키워드로, Web Developer 권예림입니다!
-## 🔨 My Skill**
+## 🔨 My Skill
 
 ---
 [![C/C++](https://img.shields.io/badge/C/C++-0356fc?logo=c&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/)

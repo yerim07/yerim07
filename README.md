@@ -1,6 +1,5 @@
 ### 꿈의 아름다움을 아는 PM 권예림입니다!
-## 🔨 My **Develop Skill**
-
+## 🔨 **Develop Skill**
 
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -10,7 +9,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 
-<h3>🛠️Tools</h3>
+## 🛠️ **Tools**
 <div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
